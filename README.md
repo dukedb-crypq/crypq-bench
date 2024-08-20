@@ -113,7 +113,7 @@ If you would like to cite this benchmark in your work, please use:
 
 * Vincent Capol, Yuxi Liu, Haibo Xiu, and Jun Yang. "CrypQ: A Database Benchmark Based on Dynamic, Ever-Evolving Ethereum Data." In Proceedings of the Sixteenth TPC Technology Conference on Performance Evaluation & Benchmarking (TPCTC 2024), Guangzhou, China, August 2024.
 
-This paper can be accessed as [PDF here](https://github.com/dukedb-crypq/crypq-benchmark/blob/main/tpctc24-CapolLXY-CrypQ.pdf).
+This paper can be accessed as [PDF here](https://github.com/dukedb-crypq/crypq-bench/blob/main/tpctc24-CapolLXY-CrypQ.pdf).
 Figure 1 of the paper shows a schema diagram for CrypQ, which you may find helpful.
 
 ```
